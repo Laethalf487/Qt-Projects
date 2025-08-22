@@ -11,6 +11,5 @@ qt_add_executable(HelloQt
     ${SOURCES}
 )
 
-target_link_libraries(HelloQt
-    Qt6::Widgets
-)
+# Syntaxe correcte pour Qt6 + CMake moderne
+target_link_libraries(HelloQt PRIVATE Qt6::Widgets)

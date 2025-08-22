@@ -1,1 +1,14 @@
-# Ignorer build et binaires 
+# Dossier build
+build/
+
+# Exécutables et DLLs
+*.exe
+*.dll
+*.pdb
+
+# Qt Creator / Visual Studio / VS Code
+.vs/
+*.user
+*.suo
+*.VC.db
+
