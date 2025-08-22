@@ -398,13 +398,18 @@ CMakeFiles/InteractiveQt.dir/main.cpp.obj: \
  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qpushbutton.h \
  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qabstractbutton.h \
  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qwidget.h \
- C:/Qt/6.9.1/mingw_64/include/QtWidgets/QMessageBox \
- C:/Qt/6.9.1/mingw_64/include/QtWidgets/qmessagebox.h \
- C:/Qt/6.9.1/mingw_64/include/QtWidgets/qdialog.h \
- C:/Qt/6.9.1/mingw_64/include/QtWidgets/qdialogbuttonbox.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/QLabel \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qlabel.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qframe.h \
+ C:/Qt/6.9.1/mingw_64/include/QtGui/qpicture.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qiodevice.h \
+ C:/Qt/6.9.1/mingw_64/include/QtGui/qtextdocument.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qurl.h \
  C:/Qt/6.9.1/mingw_64/include/QtWidgets/QVBoxLayout \
  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qboxlayout.h \
  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qlayout.h \
  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qlayoutitem.h \
  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qboxlayout.h \
- C:/Qt/6.9.1/mingw_64/include/QtWidgets/qgridlayout.h
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qgridlayout.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/Qt \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qnamespace.h

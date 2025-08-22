@@ -1,0 +1,32 @@
+# Build folders
+build/
+
+# Executables
+*.exe
+*.dll
+*.pdb
+
+# Qt Creator / Qt files
+*.user
+*.pro.user
+*.qmake.stash
+*.autosave
+*.moc
+*.obj
+*.o
+*.so
+*.a
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+
+# VS Code
+.vscode/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
