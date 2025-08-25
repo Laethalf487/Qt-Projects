@@ -128,6 +128,56 @@ PaintQt/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintQt.dir\build.make CMakeFiles/PaintQt.dir/build
 .PHONY : PaintQt/fast
 
+#=============================================================================
+# Target rules for targets named PaintQt_autogen_timestamp_deps
+
+# Build rule for target.
+PaintQt_autogen_timestamp_deps: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 PaintQt_autogen_timestamp_deps
+.PHONY : PaintQt_autogen_timestamp_deps
+
+# fast build rule for target.
+PaintQt_autogen_timestamp_deps/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintQt_autogen_timestamp_deps.dir\build.make CMakeFiles/PaintQt_autogen_timestamp_deps.dir/build
+.PHONY : PaintQt_autogen_timestamp_deps/fast
+
+#=============================================================================
+# Target rules for targets named PaintQt_autogen
+
+# Build rule for target.
+PaintQt_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 PaintQt_autogen
+.PHONY : PaintQt_autogen
+
+# fast build rule for target.
+PaintQt_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintQt_autogen.dir\build.make CMakeFiles/PaintQt_autogen.dir/build
+.PHONY : PaintQt_autogen/fast
+
+PaintQt_autogen/mocs_compilation.obj: PaintQt_autogen/mocs_compilation.cpp.obj
+.PHONY : PaintQt_autogen/mocs_compilation.obj
+
+# target to build an object file
+PaintQt_autogen/mocs_compilation.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintQt.dir\build.make CMakeFiles/PaintQt.dir/PaintQt_autogen/mocs_compilation.cpp.obj
+.PHONY : PaintQt_autogen/mocs_compilation.cpp.obj
+
+PaintQt_autogen/mocs_compilation.i: PaintQt_autogen/mocs_compilation.cpp.i
+.PHONY : PaintQt_autogen/mocs_compilation.i
+
+# target to preprocess a source file
+PaintQt_autogen/mocs_compilation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintQt.dir\build.make CMakeFiles/PaintQt.dir/PaintQt_autogen/mocs_compilation.cpp.i
+.PHONY : PaintQt_autogen/mocs_compilation.cpp.i
+
+PaintQt_autogen/mocs_compilation.s: PaintQt_autogen/mocs_compilation.cpp.s
+.PHONY : PaintQt_autogen/mocs_compilation.s
+
+# target to generate assembly for a file
+PaintQt_autogen/mocs_compilation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintQt.dir\build.make CMakeFiles/PaintQt.dir/PaintQt_autogen/mocs_compilation.cpp.s
+.PHONY : PaintQt_autogen/mocs_compilation.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -184,7 +234,12 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... PaintQt_autogen
+	@echo ... PaintQt_autogen_timestamp_deps
 	@echo ... PaintQt
+	@echo ... PaintQt_autogen/mocs_compilation.obj
+	@echo ... PaintQt_autogen/mocs_compilation.i
+	@echo ... PaintQt_autogen/mocs_compilation.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

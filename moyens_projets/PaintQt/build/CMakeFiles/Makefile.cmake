@@ -333,6 +333,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/4.1.0/CMakeCCompiler.cmake"
   "CMakeFiles/4.1.0/CMakeCXXCompiler.cmake"
   "CMakeFiles/4.1.0/CMakeCXXCompiler.cmake"
+  "CMakeFiles/PaintQt_autogen.dir/AutogenInfo.json"
   ".qt/QtDeploySupport.cmake"
   ".qt/QtDeployTargets.cmake"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
@@ -341,4 +342,6 @@ set(CMAKE_MAKEFILE_PRODUCTS
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/PaintQt.dir/DependInfo.cmake"
+  "CMakeFiles/PaintQt_autogen_timestamp_deps.dir/DependInfo.cmake"
+  "CMakeFiles/PaintQt_autogen.dir/DependInfo.cmake"
   )

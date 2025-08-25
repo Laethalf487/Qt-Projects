@@ -68,14 +68,35 @@ include CMakeFiles/PaintQt.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/PaintQt.dir/flags.make
 
+PaintQt_autogen/timestamp: C:/Qt/6.9.1/mingw_64/bin/moc.exe
+PaintQt_autogen/timestamp: CMakeFiles/PaintQt.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target PaintQt"
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_autogen C:/Users/Utilisateur/Qt-Projects/moyens_projets/PaintQt/build/CMakeFiles/PaintQt_autogen.dir/AutogenInfo.json ""
+	"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Utilisateur/Qt-Projects/moyens_projets/PaintQt/build/PaintQt_autogen/timestamp
+
 CMakeFiles/PaintQt.dir/codegen:
 .PHONY : CMakeFiles/PaintQt.dir/codegen
+
+CMakeFiles/PaintQt.dir/PaintQt_autogen/mocs_compilation.cpp.obj: CMakeFiles/PaintQt.dir/flags.make
+CMakeFiles/PaintQt.dir/PaintQt_autogen/mocs_compilation.cpp.obj: CMakeFiles/PaintQt.dir/includes_CXX.rsp
+CMakeFiles/PaintQt.dir/PaintQt_autogen/mocs_compilation.cpp.obj: PaintQt_autogen/mocs_compilation.cpp
+CMakeFiles/PaintQt.dir/PaintQt_autogen/mocs_compilation.cpp.obj: CMakeFiles/PaintQt.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/PaintQt.dir/PaintQt_autogen/mocs_compilation.cpp.obj"
+	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/PaintQt.dir/PaintQt_autogen/mocs_compilation.cpp.obj -MF CMakeFiles\PaintQt.dir\PaintQt_autogen\mocs_compilation.cpp.obj.d -o CMakeFiles\PaintQt.dir\PaintQt_autogen\mocs_compilation.cpp.obj -c C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\build\PaintQt_autogen\mocs_compilation.cpp
+
+CMakeFiles/PaintQt.dir/PaintQt_autogen/mocs_compilation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/PaintQt.dir/PaintQt_autogen/mocs_compilation.cpp.i"
+	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\build\PaintQt_autogen\mocs_compilation.cpp > CMakeFiles\PaintQt.dir\PaintQt_autogen\mocs_compilation.cpp.i
+
+CMakeFiles/PaintQt.dir/PaintQt_autogen/mocs_compilation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/PaintQt.dir/PaintQt_autogen/mocs_compilation.cpp.s"
+	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\build\PaintQt_autogen\mocs_compilation.cpp -o CMakeFiles\PaintQt.dir\PaintQt_autogen\mocs_compilation.cpp.s
 
 CMakeFiles/PaintQt.dir/main.cpp.obj: CMakeFiles/PaintQt.dir/flags.make
 CMakeFiles/PaintQt.dir/main.cpp.obj: CMakeFiles/PaintQt.dir/includes_CXX.rsp
 CMakeFiles/PaintQt.dir/main.cpp.obj: C:/Users/Utilisateur/Qt-Projects/moyens_projets/PaintQt/main.cpp
 CMakeFiles/PaintQt.dir/main.cpp.obj: CMakeFiles/PaintQt.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/PaintQt.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/PaintQt.dir/main.cpp.obj"
 	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/PaintQt.dir/main.cpp.obj -MF CMakeFiles\PaintQt.dir\main.cpp.obj.d -o CMakeFiles\PaintQt.dir\main.cpp.obj -c C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\main.cpp
 
 CMakeFiles/PaintQt.dir/main.cpp.i: cmake_force
@@ -90,7 +111,7 @@ CMakeFiles/PaintQt.dir/paintwidget.cpp.obj: CMakeFiles/PaintQt.dir/flags.make
 CMakeFiles/PaintQt.dir/paintwidget.cpp.obj: CMakeFiles/PaintQt.dir/includes_CXX.rsp
 CMakeFiles/PaintQt.dir/paintwidget.cpp.obj: C:/Users/Utilisateur/Qt-Projects/moyens_projets/PaintQt/paintwidget.cpp
 CMakeFiles/PaintQt.dir/paintwidget.cpp.obj: CMakeFiles/PaintQt.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/PaintQt.dir/paintwidget.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/PaintQt.dir/paintwidget.cpp.obj"
 	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/PaintQt.dir/paintwidget.cpp.obj -MF CMakeFiles\PaintQt.dir\paintwidget.cpp.obj.d -o CMakeFiles\PaintQt.dir\paintwidget.cpp.obj -c C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\paintwidget.cpp
 
 CMakeFiles/PaintQt.dir/paintwidget.cpp.i: cmake_force
@@ -103,12 +124,14 @@ CMakeFiles/PaintQt.dir/paintwidget.cpp.s: cmake_force
 
 # Object files for target PaintQt
 PaintQt_OBJECTS = \
+"CMakeFiles/PaintQt.dir/PaintQt_autogen/mocs_compilation.cpp.obj" \
 "CMakeFiles/PaintQt.dir/main.cpp.obj" \
 "CMakeFiles/PaintQt.dir/paintwidget.cpp.obj"
 
 # External object files for target PaintQt
 PaintQt_EXTERNAL_OBJECTS =
 
+PaintQt.exe: CMakeFiles/PaintQt.dir/PaintQt_autogen/mocs_compilation.cpp.obj
 PaintQt.exe: CMakeFiles/PaintQt.dir/main.cpp.obj
 PaintQt.exe: CMakeFiles/PaintQt.dir/paintwidget.cpp.obj
 PaintQt.exe: CMakeFiles/PaintQt.dir/build.make
@@ -118,7 +141,7 @@ PaintQt.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6Core.a
 PaintQt.exe: CMakeFiles/PaintQt.dir/linkLibs.rsp
 PaintQt.exe: CMakeFiles/PaintQt.dir/objects1.rsp
 PaintQt.exe: CMakeFiles/PaintQt.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable PaintQt.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable PaintQt.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\PaintQt.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -129,7 +152,7 @@ CMakeFiles/PaintQt.dir/clean:
 	$(CMAKE_COMMAND) -P CMakeFiles\PaintQt.dir\cmake_clean.cmake
 .PHONY : CMakeFiles/PaintQt.dir/clean
 
-CMakeFiles/PaintQt.dir/depend:
+CMakeFiles/PaintQt.dir/depend: PaintQt_autogen/timestamp
 	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\build C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\build C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\build\CMakeFiles\PaintQt.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/PaintQt.dir/depend
 
