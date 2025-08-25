@@ -382,10 +382,12 @@ CMakeFiles/PaintQt.dir/paintwidget.cpp.obj: \
  C:/Qt/6.9.1/mingw_64/include/QtGui/qbitmap.h \
  C:/Qt/6.9.1/mingw_64/include/QtCore/QVector \
  C:/Qt/6.9.1/mingw_64/include/QtCore/qvector.h \
- C:/Qt/6.9.1/mingw_64/include/QtCore/QPoint \
- C:/Qt/6.9.1/mingw_64/include/QtCore/qpoint.h \
  C:/Qt/6.9.1/mingw_64/include/QtGui/QColor \
  C:/Qt/6.9.1/mingw_64/include/QtGui/qcolor.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/QPoint \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qpoint.h \
+ C:/Qt/6.9.1/mingw_64/include/QtGui/QImage \
+ C:/Qt/6.9.1/mingw_64/include/QtGui/qimage.h \
  C:/Qt/6.9.1/mingw_64/include/QtGui/QPainter \
  C:/Qt/6.9.1/mingw_64/include/QtGui/qpainter.h \
  C:/Qt/6.9.1/mingw_64/include/QtGui/qtextoption.h \

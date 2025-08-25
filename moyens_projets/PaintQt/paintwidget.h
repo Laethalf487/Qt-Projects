@@ -1,35 +1,51 @@
 #pragma once
 #include <QWidget>
 #include <QVector>
-#include <QPoint>
 #include <QColor>
+#include <QPoint>
+#include <QImage>
 
-struct PaintPoint {
-    QPoint pos;
+struct Stroke {
+    QVector<QPoint> points;
     QColor color;
+    int size;
 };
 
-struct PaintStroke {
-    QVector<PaintPoint> points;
-};
-
-class PaintWidget : public QWidget
-{
+class PaintWidget : public QWidget {
     Q_OBJECT
+
 public:
     explicit PaintWidget(QWidget* parent = nullptr);
 
+    QColor getBrushColor() const;
     void setBrushColor(const QColor& color);
 
+    int getBrushSize() const;
+    void setBrushSize(int size);
+
+    void undo();
+    void redo();
+    void clearCanvas();
+    void loadImage(const QImage& image);
+    QImage getImage() const;
+
 protected:
-    void paintEvent(QPaintEvent*) override;
+    void paintEvent(QPaintEvent* event) override;
     void mousePressEvent(QMouseEvent* event) override;
     void mouseMoveEvent(QMouseEvent* event) override;
     void mouseReleaseEvent(QMouseEvent* event) override;
 
 private:
-    QVector<PaintStroke> strokes;
-    PaintStroke currentStroke;
+    QVector<Stroke> strokes;
+    Stroke currentStroke;
     QColor brushColor;
-    bool drawing = false;
+    int brushSize;
+    bool drawing;
+
+    QVector<QVector<Stroke>> history;
+    int historyIndex;
+
+    QImage background;
+
+    void saveHistory();
 };

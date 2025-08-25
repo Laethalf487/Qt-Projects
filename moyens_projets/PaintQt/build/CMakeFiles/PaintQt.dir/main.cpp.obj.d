@@ -381,7 +381,8 @@ CMakeFiles/PaintQt.dir/main.cpp.obj: \
  C:/Qt/6.9.1/mingw_64/include/QtCore/qhash.h \
  C:/Qt/6.9.1/mingw_64/include/QtCore/qvarlengtharray.h \
  C:/Qt/6.9.1/mingw_64/include/QtGui/qguiapplication_platform.h \
- C:/Qt/6.9.1/mingw_64/include/QtWidgets/QWidget \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/QMainWindow \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qmainwindow.h \
  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qwidget.h \
  C:/Qt/6.9.1/mingw_64/include/QtGui/qaction.h \
  C:/Qt/6.9.1/mingw_64/include/QtGui/qkeysequence.h \
@@ -394,23 +395,40 @@ CMakeFiles/PaintQt.dir/main.cpp.obj: \
  C:/Qt/6.9.1/mingw_64/include/QtGui/qfontinfo.h \
  C:/Qt/6.9.1/mingw_64/include/QtGui/qfontvariableaxis.h \
  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qsizepolicy.h \
- C:/Qt/6.9.1/mingw_64/include/QtWidgets/QPushButton \
- C:/Qt/6.9.1/mingw_64/include/QtWidgets/qpushbutton.h \
- C:/Qt/6.9.1/mingw_64/include/QtWidgets/qabstractbutton.h \
- C:/Qt/6.9.1/mingw_64/include/QtWidgets/qwidget.h \
- C:/Qt/6.9.1/mingw_64/include/QtWidgets/QColorDialog \
- C:/Qt/6.9.1/mingw_64/include/QtWidgets/qcolordialog.h \
- C:/Qt/6.9.1/mingw_64/include/QtWidgets/qdialog.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qtabwidget.h \
  C:/Qt/6.9.1/mingw_64/include/QtWidgets/QVBoxLayout \
  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qboxlayout.h \
  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qlayout.h \
  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qlayoutitem.h \
  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qboxlayout.h \
  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qgridlayout.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/QHBoxLayout \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/QPushButton \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qpushbutton.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qabstractbutton.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/QSlider \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qslider.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qabstractslider.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/QLabel \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qlabel.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qframe.h \
+ C:/Qt/6.9.1/mingw_64/include/QtGui/qpicture.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qiodevice.h \
+ C:/Qt/6.9.1/mingw_64/include/QtGui/qtextdocument.h \
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qurl.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/QFrame \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qframe.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/QColorDialog \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qcolordialog.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qdialog.h \
  C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\paintwidget.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/QWidget \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qwidget.h \
  C:/Qt/6.9.1/mingw_64/include/QtCore/QVector \
  C:/Qt/6.9.1/mingw_64/include/QtCore/qvector.h \
+ C:/Qt/6.9.1/mingw_64/include/QtGui/QColor \
+ C:/Qt/6.9.1/mingw_64/include/QtGui/qcolor.h \
  C:/Qt/6.9.1/mingw_64/include/QtCore/QPoint \
  C:/Qt/6.9.1/mingw_64/include/QtCore/qpoint.h \
- C:/Qt/6.9.1/mingw_64/include/QtGui/QColor \
- C:/Qt/6.9.1/mingw_64/include/QtGui/qcolor.h
+ C:/Qt/6.9.1/mingw_64/include/QtGui/QImage \
+ C:/Qt/6.9.1/mingw_64/include/QtGui/qimage.h
