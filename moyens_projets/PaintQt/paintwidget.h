@@ -5,6 +5,9 @@
 #include <QPoint>
 #include <QImage>
 
+/*
+ * Structure to hold a single stroke's data
+ */
 struct Stroke {
     QVector<QPoint> points;
     QColor color;

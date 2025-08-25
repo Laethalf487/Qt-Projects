@@ -2,6 +2,9 @@
 #include <QPainter>
 #include <QMouseEvent>
 
+/*
+ * PaintWidget Implementation 
+ */
 PaintWidget::PaintWidget(QWidget* parent)
     : QWidget(parent),
     brushColor(Qt::black),
@@ -12,17 +15,22 @@ PaintWidget::PaintWidget(QWidget* parent)
     setAttribute(Qt::WA_StaticContents);
 }
 
+/*
+ * Getters and Setters for brush color and size
+ */
 QColor PaintWidget::getBrushColor() const { return brushColor; }
 void PaintWidget::setBrushColor(const QColor& color) { brushColor = color; }
 
 int PaintWidget::getBrushSize() const { return brushSize; }
 void PaintWidget::setBrushSize(int size) { brushSize = size; }
 
+/*
+ * Set up the painting area and handle mouse events
+ */
 void PaintWidget::paintEvent(QPaintEvent*) {
     QPainter painter(this);
     painter.fillRect(rect(), Qt::white);
 
-    // Dessiner les traits passés
     for (const auto& stroke : strokes) {
         if (stroke.points.size() < 2) continue;
         painter.setPen(QPen(stroke.color, stroke.size, Qt::SolidLine, Qt::RoundCap, Qt::RoundJoin));
@@ -31,7 +39,6 @@ void PaintWidget::paintEvent(QPaintEvent*) {
         }
     }
 
-    // Dessiner le trait en cours
     if (drawing && currentStroke.points.size() > 1) {
         painter.setPen(QPen(currentStroke.color, currentStroke.size, Qt::SolidLine, Qt::RoundCap, Qt::RoundJoin));
         for (int i = 1; i < currentStroke.points.size(); ++i) {
@@ -40,6 +47,9 @@ void PaintWidget::paintEvent(QPaintEvent*) {
     }
 }
 
+/*
+ * If the left mouse button is pressed, start a new stroke
+ */
 void PaintWidget::mousePressEvent(QMouseEvent* event) {
     if (event->button() == Qt::LeftButton) {
         drawing = true;
@@ -48,6 +58,9 @@ void PaintWidget::mousePressEvent(QMouseEvent* event) {
     }
 }
 
+/*
+ * If the mouse is moved while drawing, add points to the current stroke
+ */
 void PaintWidget::mouseMoveEvent(QMouseEvent* event) {
     if (drawing) {
         currentStroke.points.append(event->pos());
@@ -55,6 +68,9 @@ void PaintWidget::mouseMoveEvent(QMouseEvent* event) {
     }
 }
 
+/*
+ * If the left mouse button is released, finish the current stroke
+ */
 void PaintWidget::mouseReleaseEvent(QMouseEvent* event) {
     if (drawing && event->button() == Qt::LeftButton) {
         strokes.append(currentStroke);
@@ -64,8 +80,10 @@ void PaintWidget::mouseReleaseEvent(QMouseEvent* event) {
     }
 }
 
+/*
+ * Save the current state to history for undo/redo functionality
+ */
 void PaintWidget::saveHistory() {
-    // Supprimer l’historique futur si on a dessiné après un undo
     while (history.size() > historyIndex + 1)
         history.pop_back();
 
@@ -77,6 +95,9 @@ void PaintWidget::saveHistory() {
     }
 }
 
+/*
+ * Undo the last drawing action
+ */
 void PaintWidget::undo() {
     if (historyIndex > 0) {
         historyIndex--;
@@ -85,6 +106,9 @@ void PaintWidget::undo() {
     }
 }
 
+/*
+ * Redo the previous action if available
+ */
 void PaintWidget::redo() {
     if (historyIndex + 1 < history.size()) {
         historyIndex++;
@@ -93,32 +117,37 @@ void PaintWidget::redo() {
     }
 }
 
+/*
+ * Clear the canvas and reset history
+ */
 void PaintWidget::clearCanvas() {
     strokes.clear();
     saveHistory();
     update();
 }
 
+/*
+ * Load an image as the background of the canvas
+ */
 void PaintWidget::loadImage(const QImage& image) {
-    // ? Correction : peindre directement l'image dans les strokes
     strokes.clear();
 
-    // On transforme l'image en un fond
     background = image.scaled(size(), Qt::KeepAspectRatio, Qt::SmoothTransformation);
     update();
 }
 
+/*
+ * Get the current canvas as a QImage including the background and strokes to save or export
+ */
 QImage PaintWidget::getImage() const {
     QImage image(size(), QImage::Format_ARGB32);
     image.fill(Qt::white);
     QPainter painter(&image);
 
-    // Dessiner le fond si on a chargé une image
     if (!background.isNull()) {
         painter.drawImage(0, 0, background);
     }
 
-    // Dessiner les traits
     for (const auto& stroke : strokes) {
         if (stroke.points.size() < 2) continue;
         painter.setPen(QPen(stroke.color, stroke.size, Qt::SolidLine, Qt::RoundCap, Qt::RoundJoin));
