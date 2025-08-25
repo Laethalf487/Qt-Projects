@@ -1,0 +1,41 @@
+# Build directories
+/build/
+/cmake-build-*/
+
+# Qt Creator files
+*.pro.user
+*.pro.user.* 
+*.qbs.user
+*.qmake.stash
+
+# Qt auto-generated files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.obj
+*.o
+*.a
+*.lib
+*.dll
+*.exe
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio / VS Code
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+*.code-workspace
+
+# Misc
+*.log
+*.tmp
+*.swp
