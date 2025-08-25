@@ -83,8 +83,8 @@ clean: CMakeFiles/PaintQt_autogen.dir/clean
 # Target rules for target CMakeFiles/PaintQt.dir
 
 # All Build rule for target.
-CMakeFiles/PaintQt.dir/all: CMakeFiles/PaintQt_autogen_timestamp_deps.dir/all
 CMakeFiles/PaintQt.dir/all: CMakeFiles/PaintQt_autogen.dir/all
+CMakeFiles/PaintQt.dir/all: CMakeFiles/PaintQt_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintQt.dir\build.make CMakeFiles/PaintQt.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintQt.dir\build.make CMakeFiles/PaintQt.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\build\CMakeFiles --progress-num=1,2,3,4,5 "Built target PaintQt"

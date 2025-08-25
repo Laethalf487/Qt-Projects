@@ -394,8 +394,23 @@ CMakeFiles/PaintQt.dir/main.cpp.obj: \
  C:/Qt/6.9.1/mingw_64/include/QtGui/qfontinfo.h \
  C:/Qt/6.9.1/mingw_64/include/QtGui/qfontvariableaxis.h \
  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qsizepolicy.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/QPushButton \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qpushbutton.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qabstractbutton.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qwidget.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/QColorDialog \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qcolordialog.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qdialog.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/QVBoxLayout \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qboxlayout.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qlayout.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qlayoutitem.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qboxlayout.h \
+ C:/Qt/6.9.1/mingw_64/include/QtWidgets/qgridlayout.h \
  C:\Users\Utilisateur\Qt-Projects\moyens_projets\PaintQt\paintwidget.h \
  C:/Qt/6.9.1/mingw_64/include/QtCore/QVector \
  C:/Qt/6.9.1/mingw_64/include/QtCore/qvector.h \
  C:/Qt/6.9.1/mingw_64/include/QtCore/QPoint \
- C:/Qt/6.9.1/mingw_64/include/QtCore/qpoint.h
+ C:/Qt/6.9.1/mingw_64/include/QtCore/qpoint.h \
+ C:/Qt/6.9.1/mingw_64/include/QtGui/QColor \
+ C:/Qt/6.9.1/mingw_64/include/QtGui/qcolor.h

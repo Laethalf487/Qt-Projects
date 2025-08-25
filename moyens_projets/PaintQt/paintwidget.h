@@ -2,21 +2,34 @@
 #include <QWidget>
 #include <QVector>
 #include <QPoint>
+#include <QColor>
 
-class PaintWidget : public QWidget {
-	Q_OBJECT
+struct PaintPoint {
+    QPoint pos;
+    QColor color;
+};
 
+struct PaintStroke {
+    QVector<PaintPoint> points;
+};
+
+class PaintWidget : public QWidget
+{
+    Q_OBJECT
 public:
-	explicit PaintWidget(QWidget* parent = nullptr);
+    explicit PaintWidget(QWidget* parent = nullptr);
+
+    void setBrushColor(const QColor& color);
 
 protected:
-	void paintEvent(QPaintEvent* event) override;
-	void mousePressEvent(QMouseEvent* event) override;
-	void mouseMoveEvent(QMouseEvent* event) override;
+    void paintEvent(QPaintEvent*) override;
+    void mousePressEvent(QMouseEvent* event) override;
+    void mouseMoveEvent(QMouseEvent* event) override;
+    void mouseReleaseEvent(QMouseEvent* event) override;
 
-/*
-* Store the points where the user has drawn 
-*/
 private:
-	QVector<QPoint> points;
+    QVector<PaintStroke> strokes;
+    PaintStroke currentStroke;
+    QColor brushColor;
+    bool drawing = false;
 };

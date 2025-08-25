@@ -214,106 +214,26 @@ PaintQt_autogen/timestamp: C:/MinGW/include/c++/15.1.0/algorithm \
   C:/MinGW/x86_64-w64-mingw32/include/vadefs.h \
   C:/MinGW/x86_64-w64-mingw32/include/wchar.h \
   C:/Program\ Files/CMake/bin/cmake.exe \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeCCompiler.cmake.in \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeCCompilerABI.c \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeCInformation.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompiler.cmake.in \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeCXXInformation.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeCompilerIdDetection.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerSupport.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineRCCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineSystem.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeGenericSystem.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeMinGWFindMake.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeParseImplicitIncludeInfo.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeParseImplicitLinkInfo.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeParseLibraryArchitecture.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeRCCompiler.cmake.in \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeRCInformation.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeSystem.cmake.in \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeTestCCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeTestCompilerCommon.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeTestRCCompiler.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/CheckCSourceCompiles.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/CheckCXXCompilerFlag.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/CheckCXXSourceCompiles.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/CheckIncludeFile.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/CheckLibraryExists.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/ADSP-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Borland-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Bruce-C-DetermineCompiler.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Clang-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Compaq-C-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Cray-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/CrayClang-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Diab-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/GHS-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-C-DetermineCompiler.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-C.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-CXX.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-FindBinUtils.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/HP-C-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/IAR-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Intel-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/LCC-C-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/MSVC-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/OrangeC-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/PGI-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/PathScale-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Renesas-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/SCO-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/SDCC-C-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/SunPro-C-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/TI-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/TIClang-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Tasking-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Watcom-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/XL-C-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/XLClang-C-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/zOS-C-DetermineCompiler.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/FindPackageHandleStandardArgs.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/FindPackageMessage.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/FindThreads.cmake \
@@ -322,20 +242,15 @@ PaintQt_autogen/timestamp: C:/MinGW/include/c++/15.1.0/algorithm \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCLinkerInformation.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeDetermineLinkerId.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeInspectCLinker.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeInspectCXXLinker.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Internal/CheckCompilerFlag.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Internal/CheckFlagCommonConfig.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Internal/FeatureTesting.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Linker/GNU.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-C.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-CXX.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU-C.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU-CXX.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU.cmake \
-  C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Windows-Determine-CXX.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Windows-GNU-C-ABI.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Windows-GNU-C.cmake \
   C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Windows-GNU-CXX-ABI.cmake \
@@ -473,6 +388,7 @@ PaintQt_autogen/timestamp: C:/MinGW/include/c++/15.1.0/algorithm \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qversiontagging.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qxptype_traits.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/QColor \
   C:/Qt/6.9.1/mingw_64/include/QtGui/qaction.h \
   C:/Qt/6.9.1/mingw_64/include/QtGui/qbitmap.h \
   C:/Qt/6.9.1/mingw_64/include/QtGui/qbrush.h \
@@ -687,6 +603,821 @@ PaintQt_autogen/timestamp: C:/MinGW/include/c++/15.1.0/algorithm \
   C:/Users/Utilisateur/Qt-Projects/moyens_projets/PaintQt/paintwidget.cpp \
   C:/Users/Utilisateur/Qt-Projects/moyens_projets/PaintQt/paintwidget.h
 
+CMakeFiles/PaintQt.dir/PaintQt_autogen/mocs_compilation.cpp.obj: PaintQt_autogen/mocs_compilation.cpp \
+  C:/MinGW/include/c++/15.1.0/algorithm \
+  C:/MinGW/include/c++/15.1.0/array \
+  C:/MinGW/include/c++/15.1.0/atomic \
+  C:/MinGW/include/c++/15.1.0/backward/auto_ptr.h \
+  C:/MinGW/include/c++/15.1.0/backward/binders.h \
+  C:/MinGW/include/c++/15.1.0/bit \
+  C:/MinGW/include/c++/15.1.0/bits/algorithmfwd.h \
+  C:/MinGW/include/c++/15.1.0/bits/align.h \
+  C:/MinGW/include/c++/15.1.0/bits/alloc_traits.h \
+  C:/MinGW/include/c++/15.1.0/bits/allocated_ptr.h \
+  C:/MinGW/include/c++/15.1.0/bits/allocator.h \
+  C:/MinGW/include/c++/15.1.0/bits/atomic_base.h \
+  C:/MinGW/include/c++/15.1.0/bits/atomic_lockfree_defines.h \
+  C:/MinGW/include/c++/15.1.0/bits/basic_string.h \
+  C:/MinGW/include/c++/15.1.0/bits/basic_string.tcc \
+  C:/MinGW/include/c++/15.1.0/bits/char_traits.h \
+  C:/MinGW/include/c++/15.1.0/bits/charconv.h \
+  C:/MinGW/include/c++/15.1.0/bits/chrono.h \
+  C:/MinGW/include/c++/15.1.0/bits/concept_check.h \
+  C:/MinGW/include/c++/15.1.0/bits/cpp_type_traits.h \
+  C:/MinGW/include/c++/15.1.0/bits/cxxabi_forced.h \
+  C:/MinGW/include/c++/15.1.0/bits/cxxabi_init_exception.h \
+  C:/MinGW/include/c++/15.1.0/bits/enable_special_members.h \
+  C:/MinGW/include/c++/15.1.0/bits/erase_if.h \
+  C:/MinGW/include/c++/15.1.0/bits/exception.h \
+  C:/MinGW/include/c++/15.1.0/bits/exception_defines.h \
+  C:/MinGW/include/c++/15.1.0/bits/exception_ptr.h \
+  C:/MinGW/include/c++/15.1.0/bits/functexcept.h \
+  C:/MinGW/include/c++/15.1.0/bits/functional_hash.h \
+  C:/MinGW/include/c++/15.1.0/bits/hash_bytes.h \
+  C:/MinGW/include/c++/15.1.0/bits/hashtable.h \
+  C:/MinGW/include/c++/15.1.0/bits/hashtable_policy.h \
+  C:/MinGW/include/c++/15.1.0/bits/invoke.h \
+  C:/MinGW/include/c++/15.1.0/bits/ios_base.h \
+  C:/MinGW/include/c++/15.1.0/bits/list.tcc \
+  C:/MinGW/include/c++/15.1.0/bits/locale_classes.h \
+  C:/MinGW/include/c++/15.1.0/bits/locale_classes.tcc \
+  C:/MinGW/include/c++/15.1.0/bits/localefwd.h \
+  C:/MinGW/include/c++/15.1.0/bits/memory_resource.h \
+  C:/MinGW/include/c++/15.1.0/bits/memoryfwd.h \
+  C:/MinGW/include/c++/15.1.0/bits/monostate.h \
+  C:/MinGW/include/c++/15.1.0/bits/move.h \
+  C:/MinGW/include/c++/15.1.0/bits/nested_exception.h \
+  C:/MinGW/include/c++/15.1.0/bits/new_allocator.h \
+  C:/MinGW/include/c++/15.1.0/bits/node_handle.h \
+  C:/MinGW/include/c++/15.1.0/bits/ostream_insert.h \
+  C:/MinGW/include/c++/15.1.0/bits/parse_numbers.h \
+  C:/MinGW/include/c++/15.1.0/bits/postypes.h \
+  C:/MinGW/include/c++/15.1.0/bits/predefined_ops.h \
+  C:/MinGW/include/c++/15.1.0/bits/ptr_traits.h \
+  C:/MinGW/include/c++/15.1.0/bits/range_access.h \
+  C:/MinGW/include/c++/15.1.0/bits/refwrap.h \
+  C:/MinGW/include/c++/15.1.0/bits/requires_hosted.h \
+  C:/MinGW/include/c++/15.1.0/bits/shared_ptr.h \
+  C:/MinGW/include/c++/15.1.0/bits/shared_ptr_atomic.h \
+  C:/MinGW/include/c++/15.1.0/bits/shared_ptr_base.h \
+  C:/MinGW/include/c++/15.1.0/bits/specfun.h \
+  C:/MinGW/include/c++/15.1.0/bits/std_abs.h \
+  C:/MinGW/include/c++/15.1.0/bits/std_function.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_algo.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_algobase.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_bvector.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_construct.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_function.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_heap.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_iterator.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_iterator_base_funcs.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_iterator_base_types.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_list.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_map.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_multimap.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_multiset.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_numeric.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_pair.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_raw_storage_iter.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_relops.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_set.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_tempbuf.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_tree.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_uninitialized.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_vector.h \
+  C:/MinGW/include/c++/15.1.0/bits/stream_iterator.h \
+  C:/MinGW/include/c++/15.1.0/bits/streambuf.tcc \
+  C:/MinGW/include/c++/15.1.0/bits/streambuf_iterator.h \
+  C:/MinGW/include/c++/15.1.0/bits/string_view.tcc \
+  C:/MinGW/include/c++/15.1.0/bits/stringfwd.h \
+  C:/MinGW/include/c++/15.1.0/bits/uniform_int_dist.h \
+  C:/MinGW/include/c++/15.1.0/bits/unique_ptr.h \
+  C:/MinGW/include/c++/15.1.0/bits/unordered_map.h \
+  C:/MinGW/include/c++/15.1.0/bits/unordered_set.h \
+  C:/MinGW/include/c++/15.1.0/bits/uses_allocator.h \
+  C:/MinGW/include/c++/15.1.0/bits/uses_allocator_args.h \
+  C:/MinGW/include/c++/15.1.0/bits/utility.h \
+  C:/MinGW/include/c++/15.1.0/bits/vector.tcc \
+  C:/MinGW/include/c++/15.1.0/bits/version.h \
+  C:/MinGW/include/c++/15.1.0/cassert \
+  C:/MinGW/include/c++/15.1.0/cctype \
+  C:/MinGW/include/c++/15.1.0/cerrno \
+  C:/MinGW/include/c++/15.1.0/chrono \
+  C:/MinGW/include/c++/15.1.0/climits \
+  C:/MinGW/include/c++/15.1.0/clocale \
+  C:/MinGW/include/c++/15.1.0/cmath \
+  C:/MinGW/include/c++/15.1.0/compare \
+  C:/MinGW/include/c++/15.1.0/concepts \
+  C:/MinGW/include/c++/15.1.0/cstddef \
+  C:/MinGW/include/c++/15.1.0/cstdint \
+  C:/MinGW/include/c++/15.1.0/cstdio \
+  C:/MinGW/include/c++/15.1.0/cstdlib \
+  C:/MinGW/include/c++/15.1.0/cstring \
+  C:/MinGW/include/c++/15.1.0/ctime \
+  C:/MinGW/include/c++/15.1.0/cwchar \
+  C:/MinGW/include/c++/15.1.0/debug/assertions.h \
+  C:/MinGW/include/c++/15.1.0/debug/debug.h \
+  C:/MinGW/include/c++/15.1.0/exception \
+  C:/MinGW/include/c++/15.1.0/ext/aligned_buffer.h \
+  C:/MinGW/include/c++/15.1.0/ext/alloc_traits.h \
+  C:/MinGW/include/c++/15.1.0/ext/atomicity.h \
+  C:/MinGW/include/c++/15.1.0/ext/concurrence.h \
+  C:/MinGW/include/c++/15.1.0/ext/numeric_traits.h \
+  C:/MinGW/include/c++/15.1.0/ext/string_conversions.h \
+  C:/MinGW/include/c++/15.1.0/ext/type_traits.h \
+  C:/MinGW/include/c++/15.1.0/functional \
+  C:/MinGW/include/c++/15.1.0/initializer_list \
+  C:/MinGW/include/c++/15.1.0/iosfwd \
+  C:/MinGW/include/c++/15.1.0/iterator \
+  C:/MinGW/include/c++/15.1.0/limits \
+  C:/MinGW/include/c++/15.1.0/list \
+  C:/MinGW/include/c++/15.1.0/map \
+  C:/MinGW/include/c++/15.1.0/memory \
+  C:/MinGW/include/c++/15.1.0/new \
+  C:/MinGW/include/c++/15.1.0/numeric \
+  C:/MinGW/include/c++/15.1.0/optional \
+  C:/MinGW/include/c++/15.1.0/pstl/execution_defs.h \
+  C:/MinGW/include/c++/15.1.0/pstl/glue_algorithm_defs.h \
+  C:/MinGW/include/c++/15.1.0/pstl/glue_memory_defs.h \
+  C:/MinGW/include/c++/15.1.0/pstl/glue_numeric_defs.h \
+  C:/MinGW/include/c++/15.1.0/pstl/pstl_config.h \
+  C:/MinGW/include/c++/15.1.0/ratio \
+  C:/MinGW/include/c++/15.1.0/set \
+  C:/MinGW/include/c++/15.1.0/stdexcept \
+  C:/MinGW/include/c++/15.1.0/stdlib.h \
+  C:/MinGW/include/c++/15.1.0/streambuf \
+  C:/MinGW/include/c++/15.1.0/string \
+  C:/MinGW/include/c++/15.1.0/string_view \
+  C:/MinGW/include/c++/15.1.0/system_error \
+  C:/MinGW/include/c++/15.1.0/tr1/bessel_function.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/beta_function.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/ell_integral.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/exp_integral.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/gamma.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/hypergeometric.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/legendre_function.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/modified_bessel_func.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/poly_hermite.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/poly_laguerre.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/riemann_zeta.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/special_function_util.h \
+  C:/MinGW/include/c++/15.1.0/tuple \
+  C:/MinGW/include/c++/15.1.0/type_traits \
+  C:/MinGW/include/c++/15.1.0/typeinfo \
+  C:/MinGW/include/c++/15.1.0/unordered_map \
+  C:/MinGW/include/c++/15.1.0/unordered_set \
+  C:/MinGW/include/c++/15.1.0/utility \
+  C:/MinGW/include/c++/15.1.0/variant \
+  C:/MinGW/include/c++/15.1.0/vector \
+  C:/MinGW/include/c++/15.1.0/version \
+  C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++config.h \
+  C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/gthr.h \
+  C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/limits.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/mm_malloc.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdarg.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdbool.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stddef.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdint.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/syslimits.h \
+  C:/MinGW/x86_64-w64-mingw32/include/_mingw.h \
+  C:/MinGW/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/MinGW/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/MinGW/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/MinGW/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/MinGW/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  C:/MinGW/x86_64-w64-mingw32/include/_timeval.h \
+  C:/MinGW/x86_64-w64-mingw32/include/assert.h \
+  C:/MinGW/x86_64-w64-mingw32/include/corecrt.h \
+  C:/MinGW/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/MinGW/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/MinGW/x86_64-w64-mingw32/include/corecrt_wctype.h \
+  C:/MinGW/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/MinGW/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/MinGW/x86_64-w64-mingw32/include/ctype.h \
+  C:/MinGW/x86_64-w64-mingw32/include/errno.h \
+  C:/MinGW/x86_64-w64-mingw32/include/limits.h \
+  C:/MinGW/x86_64-w64-mingw32/include/locale.h \
+  C:/MinGW/x86_64-w64-mingw32/include/malloc.h \
+  C:/MinGW/x86_64-w64-mingw32/include/math.h \
+  C:/MinGW/x86_64-w64-mingw32/include/process.h \
+  C:/MinGW/x86_64-w64-mingw32/include/pthread.h \
+  C:/MinGW/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/MinGW/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/MinGW/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/MinGW/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sched.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/MinGW/x86_64-w64-mingw32/include/signal.h \
+  C:/MinGW/x86_64-w64-mingw32/include/stdarg.h \
+  C:/MinGW/x86_64-w64-mingw32/include/stddef.h \
+  C:/MinGW/x86_64-w64-mingw32/include/stdint.h \
+  C:/MinGW/x86_64-w64-mingw32/include/stdio.h \
+  C:/MinGW/x86_64-w64-mingw32/include/stdlib.h \
+  C:/MinGW/x86_64-w64-mingw32/include/string.h \
+  C:/MinGW/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/MinGW/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sys/types.h \
+  C:/MinGW/x86_64-w64-mingw32/include/time.h \
+  C:/MinGW/x86_64-w64-mingw32/include/vadefs.h \
+  C:/MinGW/x86_64-w64-mingw32/include/wchar.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QPoint \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QVector \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q17memory.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q20algorithm.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q20functional.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q20iterator.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q20memory.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q20type_traits.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q20utility.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q23type_traits.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q23utility.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qalgorithms.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qanystringview.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qarraydata.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qarraydataops.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qarraydatapointer.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qassert.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qatomic.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qatomic_cxx11.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qbasicatomic.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qbindingstorage.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearray.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayalgorithms.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearraylist.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qchar.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcompare.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcompare_impl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcomparehelpers.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcompilerdetection.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qconfig.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qconstructormacros.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcontainerfwd.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcontainerinfo.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcontainertools_impl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcontiguouscache.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qdarwinhelpers.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qdebug.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qendian.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qflags.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qfloat16.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qforeach.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qfunctionaltools_impl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qfunctionpointer.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qgenericatomic.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qglobal.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qglobalstatic.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qhash.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qiodevicebase.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qiterable.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qiterator.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qlatin1stringview.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qline.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qlogging.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qmalloc.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qmap.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qmargins.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qmath.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qmetacontainer.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qmetatype.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qminmax.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qnamespace.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qnumeric.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qobject.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qobject_impl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qobjectdefs.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qobjectdefs_impl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qoverload.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qpair.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qpoint.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qrect.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qrefcount.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qscopedpointer.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qscopeguard.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qset.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qshareddata.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qshareddata_impl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qsharedpointer.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qsharedpointer_impl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qsize.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qspan.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstdlibdetection.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstring.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringalgorithms.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringbuilder.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringconverter.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringconverter_base.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringfwd.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringlist.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringliteral.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringmatcher.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringtokenizer.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringview.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qswap.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qsysinfo.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qsystemdetection.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtaggedpointer.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtclasshelpermacros.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtconfiginclude.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtconfigmacros.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtcore-config.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtcoreexports.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtcoreglobal.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtdeprecationdefinitions.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtdeprecationmarkers.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtextstream.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtformat_impl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtmetamacros.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtmocconstants.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtmochelpers.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtnoop.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtpreprocessorsupport.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtresource.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qttranslation.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qttypetraits.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtversion.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtversionchecks.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtypeinfo.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qvariant.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qvarlengtharray.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qvector.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qversiontagging.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qxptype_traits.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/QColor \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qaction.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qbitmap.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qbrush.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qcolor.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qcursor.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qfont.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qfontinfo.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qfontmetrics.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qfontvariableaxis.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qicon.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qimage.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qkeysequence.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qpaintdevice.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qpalette.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qpixelformat.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qpixmap.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qpolygon.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qregion.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qrgb.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qrgba64.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qtgui-config.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qtguiexports.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qtguiglobal.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qtransform.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qwindowdefs.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/QWidget \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qsizepolicy.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qtwidgets-config.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qtwidgetsexports.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qwidget.h \
+  C:/Users/Utilisateur/Qt-Projects/moyens_projets/PaintQt/paintwidget.h \
+  PaintQt_autogen/EWIEGA46WW/moc_paintwidget.cpp
+
+CMakeFiles/PaintQt.dir/main.cpp.obj: C:/Users/Utilisateur/Qt-Projects/moyens_projets/PaintQt/main.cpp \
+  C:/MinGW/include/c++/15.1.0/algorithm \
+  C:/MinGW/include/c++/15.1.0/array \
+  C:/MinGW/include/c++/15.1.0/atomic \
+  C:/MinGW/include/c++/15.1.0/backward/auto_ptr.h \
+  C:/MinGW/include/c++/15.1.0/backward/binders.h \
+  C:/MinGW/include/c++/15.1.0/bit \
+  C:/MinGW/include/c++/15.1.0/bits/algorithmfwd.h \
+  C:/MinGW/include/c++/15.1.0/bits/align.h \
+  C:/MinGW/include/c++/15.1.0/bits/alloc_traits.h \
+  C:/MinGW/include/c++/15.1.0/bits/allocated_ptr.h \
+  C:/MinGW/include/c++/15.1.0/bits/allocator.h \
+  C:/MinGW/include/c++/15.1.0/bits/atomic_base.h \
+  C:/MinGW/include/c++/15.1.0/bits/atomic_lockfree_defines.h \
+  C:/MinGW/include/c++/15.1.0/bits/basic_string.h \
+  C:/MinGW/include/c++/15.1.0/bits/basic_string.tcc \
+  C:/MinGW/include/c++/15.1.0/bits/char_traits.h \
+  C:/MinGW/include/c++/15.1.0/bits/charconv.h \
+  C:/MinGW/include/c++/15.1.0/bits/chrono.h \
+  C:/MinGW/include/c++/15.1.0/bits/concept_check.h \
+  C:/MinGW/include/c++/15.1.0/bits/cpp_type_traits.h \
+  C:/MinGW/include/c++/15.1.0/bits/cxxabi_forced.h \
+  C:/MinGW/include/c++/15.1.0/bits/cxxabi_init_exception.h \
+  C:/MinGW/include/c++/15.1.0/bits/enable_special_members.h \
+  C:/MinGW/include/c++/15.1.0/bits/erase_if.h \
+  C:/MinGW/include/c++/15.1.0/bits/exception.h \
+  C:/MinGW/include/c++/15.1.0/bits/exception_defines.h \
+  C:/MinGW/include/c++/15.1.0/bits/exception_ptr.h \
+  C:/MinGW/include/c++/15.1.0/bits/functexcept.h \
+  C:/MinGW/include/c++/15.1.0/bits/functional_hash.h \
+  C:/MinGW/include/c++/15.1.0/bits/hash_bytes.h \
+  C:/MinGW/include/c++/15.1.0/bits/hashtable.h \
+  C:/MinGW/include/c++/15.1.0/bits/hashtable_policy.h \
+  C:/MinGW/include/c++/15.1.0/bits/invoke.h \
+  C:/MinGW/include/c++/15.1.0/bits/ios_base.h \
+  C:/MinGW/include/c++/15.1.0/bits/list.tcc \
+  C:/MinGW/include/c++/15.1.0/bits/locale_classes.h \
+  C:/MinGW/include/c++/15.1.0/bits/locale_classes.tcc \
+  C:/MinGW/include/c++/15.1.0/bits/localefwd.h \
+  C:/MinGW/include/c++/15.1.0/bits/memory_resource.h \
+  C:/MinGW/include/c++/15.1.0/bits/memoryfwd.h \
+  C:/MinGW/include/c++/15.1.0/bits/monostate.h \
+  C:/MinGW/include/c++/15.1.0/bits/move.h \
+  C:/MinGW/include/c++/15.1.0/bits/nested_exception.h \
+  C:/MinGW/include/c++/15.1.0/bits/new_allocator.h \
+  C:/MinGW/include/c++/15.1.0/bits/node_handle.h \
+  C:/MinGW/include/c++/15.1.0/bits/ostream_insert.h \
+  C:/MinGW/include/c++/15.1.0/bits/parse_numbers.h \
+  C:/MinGW/include/c++/15.1.0/bits/postypes.h \
+  C:/MinGW/include/c++/15.1.0/bits/predefined_ops.h \
+  C:/MinGW/include/c++/15.1.0/bits/ptr_traits.h \
+  C:/MinGW/include/c++/15.1.0/bits/range_access.h \
+  C:/MinGW/include/c++/15.1.0/bits/refwrap.h \
+  C:/MinGW/include/c++/15.1.0/bits/requires_hosted.h \
+  C:/MinGW/include/c++/15.1.0/bits/shared_ptr.h \
+  C:/MinGW/include/c++/15.1.0/bits/shared_ptr_atomic.h \
+  C:/MinGW/include/c++/15.1.0/bits/shared_ptr_base.h \
+  C:/MinGW/include/c++/15.1.0/bits/specfun.h \
+  C:/MinGW/include/c++/15.1.0/bits/std_abs.h \
+  C:/MinGW/include/c++/15.1.0/bits/std_function.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_algo.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_algobase.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_bvector.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_construct.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_function.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_heap.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_iterator.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_iterator_base_funcs.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_iterator_base_types.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_list.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_map.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_multimap.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_multiset.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_numeric.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_pair.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_raw_storage_iter.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_relops.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_set.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_tempbuf.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_tree.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_uninitialized.h \
+  C:/MinGW/include/c++/15.1.0/bits/stl_vector.h \
+  C:/MinGW/include/c++/15.1.0/bits/stream_iterator.h \
+  C:/MinGW/include/c++/15.1.0/bits/streambuf.tcc \
+  C:/MinGW/include/c++/15.1.0/bits/streambuf_iterator.h \
+  C:/MinGW/include/c++/15.1.0/bits/string_view.tcc \
+  C:/MinGW/include/c++/15.1.0/bits/stringfwd.h \
+  C:/MinGW/include/c++/15.1.0/bits/uniform_int_dist.h \
+  C:/MinGW/include/c++/15.1.0/bits/unique_ptr.h \
+  C:/MinGW/include/c++/15.1.0/bits/unordered_map.h \
+  C:/MinGW/include/c++/15.1.0/bits/unordered_set.h \
+  C:/MinGW/include/c++/15.1.0/bits/uses_allocator.h \
+  C:/MinGW/include/c++/15.1.0/bits/uses_allocator_args.h \
+  C:/MinGW/include/c++/15.1.0/bits/utility.h \
+  C:/MinGW/include/c++/15.1.0/bits/vector.tcc \
+  C:/MinGW/include/c++/15.1.0/bits/version.h \
+  C:/MinGW/include/c++/15.1.0/cassert \
+  C:/MinGW/include/c++/15.1.0/cctype \
+  C:/MinGW/include/c++/15.1.0/cerrno \
+  C:/MinGW/include/c++/15.1.0/chrono \
+  C:/MinGW/include/c++/15.1.0/climits \
+  C:/MinGW/include/c++/15.1.0/clocale \
+  C:/MinGW/include/c++/15.1.0/cmath \
+  C:/MinGW/include/c++/15.1.0/compare \
+  C:/MinGW/include/c++/15.1.0/concepts \
+  C:/MinGW/include/c++/15.1.0/cstddef \
+  C:/MinGW/include/c++/15.1.0/cstdint \
+  C:/MinGW/include/c++/15.1.0/cstdio \
+  C:/MinGW/include/c++/15.1.0/cstdlib \
+  C:/MinGW/include/c++/15.1.0/cstring \
+  C:/MinGW/include/c++/15.1.0/ctime \
+  C:/MinGW/include/c++/15.1.0/cwchar \
+  C:/MinGW/include/c++/15.1.0/debug/assertions.h \
+  C:/MinGW/include/c++/15.1.0/debug/debug.h \
+  C:/MinGW/include/c++/15.1.0/exception \
+  C:/MinGW/include/c++/15.1.0/ext/aligned_buffer.h \
+  C:/MinGW/include/c++/15.1.0/ext/alloc_traits.h \
+  C:/MinGW/include/c++/15.1.0/ext/atomicity.h \
+  C:/MinGW/include/c++/15.1.0/ext/concurrence.h \
+  C:/MinGW/include/c++/15.1.0/ext/numeric_traits.h \
+  C:/MinGW/include/c++/15.1.0/ext/string_conversions.h \
+  C:/MinGW/include/c++/15.1.0/ext/type_traits.h \
+  C:/MinGW/include/c++/15.1.0/functional \
+  C:/MinGW/include/c++/15.1.0/initializer_list \
+  C:/MinGW/include/c++/15.1.0/iosfwd \
+  C:/MinGW/include/c++/15.1.0/iterator \
+  C:/MinGW/include/c++/15.1.0/limits \
+  C:/MinGW/include/c++/15.1.0/list \
+  C:/MinGW/include/c++/15.1.0/map \
+  C:/MinGW/include/c++/15.1.0/memory \
+  C:/MinGW/include/c++/15.1.0/new \
+  C:/MinGW/include/c++/15.1.0/numeric \
+  C:/MinGW/include/c++/15.1.0/optional \
+  C:/MinGW/include/c++/15.1.0/pstl/execution_defs.h \
+  C:/MinGW/include/c++/15.1.0/pstl/glue_algorithm_defs.h \
+  C:/MinGW/include/c++/15.1.0/pstl/glue_memory_defs.h \
+  C:/MinGW/include/c++/15.1.0/pstl/glue_numeric_defs.h \
+  C:/MinGW/include/c++/15.1.0/pstl/pstl_config.h \
+  C:/MinGW/include/c++/15.1.0/ratio \
+  C:/MinGW/include/c++/15.1.0/set \
+  C:/MinGW/include/c++/15.1.0/stdexcept \
+  C:/MinGW/include/c++/15.1.0/stdlib.h \
+  C:/MinGW/include/c++/15.1.0/streambuf \
+  C:/MinGW/include/c++/15.1.0/string \
+  C:/MinGW/include/c++/15.1.0/string_view \
+  C:/MinGW/include/c++/15.1.0/system_error \
+  C:/MinGW/include/c++/15.1.0/tr1/bessel_function.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/beta_function.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/ell_integral.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/exp_integral.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/gamma.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/hypergeometric.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/legendre_function.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/modified_bessel_func.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/poly_hermite.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/poly_laguerre.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/riemann_zeta.tcc \
+  C:/MinGW/include/c++/15.1.0/tr1/special_function_util.h \
+  C:/MinGW/include/c++/15.1.0/tuple \
+  C:/MinGW/include/c++/15.1.0/type_traits \
+  C:/MinGW/include/c++/15.1.0/typeinfo \
+  C:/MinGW/include/c++/15.1.0/unordered_map \
+  C:/MinGW/include/c++/15.1.0/unordered_set \
+  C:/MinGW/include/c++/15.1.0/utility \
+  C:/MinGW/include/c++/15.1.0/variant \
+  C:/MinGW/include/c++/15.1.0/vector \
+  C:/MinGW/include/c++/15.1.0/version \
+  C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++config.h \
+  C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/gthr.h \
+  C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/limits.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/mm_malloc.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdarg.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdbool.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stddef.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdint.h \
+  C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/syslimits.h \
+  C:/MinGW/x86_64-w64-mingw32/include/_mingw.h \
+  C:/MinGW/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/MinGW/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/MinGW/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/MinGW/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/MinGW/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+  C:/MinGW/x86_64-w64-mingw32/include/_timeval.h \
+  C:/MinGW/x86_64-w64-mingw32/include/assert.h \
+  C:/MinGW/x86_64-w64-mingw32/include/corecrt.h \
+  C:/MinGW/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/MinGW/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/MinGW/x86_64-w64-mingw32/include/corecrt_wctype.h \
+  C:/MinGW/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/MinGW/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/MinGW/x86_64-w64-mingw32/include/ctype.h \
+  C:/MinGW/x86_64-w64-mingw32/include/errno.h \
+  C:/MinGW/x86_64-w64-mingw32/include/limits.h \
+  C:/MinGW/x86_64-w64-mingw32/include/locale.h \
+  C:/MinGW/x86_64-w64-mingw32/include/malloc.h \
+  C:/MinGW/x86_64-w64-mingw32/include/math.h \
+  C:/MinGW/x86_64-w64-mingw32/include/process.h \
+  C:/MinGW/x86_64-w64-mingw32/include/pthread.h \
+  C:/MinGW/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/MinGW/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/MinGW/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/MinGW/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sched.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/MinGW/x86_64-w64-mingw32/include/signal.h \
+  C:/MinGW/x86_64-w64-mingw32/include/stdarg.h \
+  C:/MinGW/x86_64-w64-mingw32/include/stddef.h \
+  C:/MinGW/x86_64-w64-mingw32/include/stdint.h \
+  C:/MinGW/x86_64-w64-mingw32/include/stdio.h \
+  C:/MinGW/x86_64-w64-mingw32/include/stdlib.h \
+  C:/MinGW/x86_64-w64-mingw32/include/string.h \
+  C:/MinGW/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/MinGW/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/MinGW/x86_64-w64-mingw32/include/sys/types.h \
+  C:/MinGW/x86_64-w64-mingw32/include/time.h \
+  C:/MinGW/x86_64-w64-mingw32/include/vadefs.h \
+  C:/MinGW/x86_64-w64-mingw32/include/wchar.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QPoint \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/QVector \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q17memory.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q20functional.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q20iterator.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q20memory.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q20type_traits.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q20utility.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/q23utility.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qabstracteventdispatcher.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qalgorithms.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qanystringview.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qarraydata.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qarraydataops.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qarraydatapointer.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qassert.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qatomic.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qatomic_cxx11.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qbasicatomic.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qbasictimer.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qbindingstorage.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearray.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayalgorithms.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearraylist.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qchar.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcompare.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcompare_impl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcomparehelpers.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcompilerdetection.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qconfig.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qconstructormacros.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcontainerfwd.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcontainerinfo.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcontainertools_impl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcontiguouscache.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcoreapplication.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcoreapplication_platform.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qcoreevent.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qdarwinhelpers.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qdeadlinetimer.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qdebug.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qelapsedtimer.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qendian.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qeventloop.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qexceptionhandling.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qflags.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qfloat16.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qforeach.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qfunctionaltools_impl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qfunctionpointer.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qgenericatomic.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qglobal.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qglobalstatic.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qhash.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qhashfunctions.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qiodevicebase.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qiterable.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qiterator.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qlatin1stringview.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qline.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qlocale.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qlogging.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qmalloc.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qmap.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qmargins.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qmath.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qmetacontainer.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qmetatype.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qminmax.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qnamespace.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qnativeinterface.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qnumeric.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qobject.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qobject_impl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qobjectdefs.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qobjectdefs_impl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qoverload.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qpair.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qpoint.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qprocessordetection.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qrect.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qrefcount.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qscopedpointer.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qscopeguard.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qset.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qshareddata.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qshareddata_impl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qsharedpointer.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qsharedpointer_impl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qsize.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qspan.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstdlibdetection.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstring.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringalgorithms.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringbuilder.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringconverter.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringconverter_base.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringfwd.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringlist.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringliteral.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringmatcher.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringtokenizer.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qstringview.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qswap.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qsysinfo.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qsystemdetection.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtaggedpointer.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtclasshelpermacros.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtconfiginclude.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtconfigmacros.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtcore-config.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtcoreexports.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtcoreglobal.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtdeprecationdefinitions.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtdeprecationmarkers.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtextstream.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtformat_impl.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtmetamacros.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtnoop.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtpreprocessorsupport.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtresource.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qttranslation.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qttypetraits.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtversion.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtversionchecks.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtypeinfo.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qutf8stringview.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qvariant.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qvarlengtharray.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qvector.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qversiontagging.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qxptype_traits.h \
+  C:/Qt/6.9.1/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/QColor \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qaction.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qbitmap.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qbrush.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qcolor.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qcursor.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qfont.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qfontinfo.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qfontmetrics.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qfontvariableaxis.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qguiapplication.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qguiapplication_platform.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qicon.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qimage.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qinputmethod.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qkeysequence.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qpaintdevice.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qpalette.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qpixelformat.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qpixmap.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qpolygon.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qregion.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qrgb.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qrgba64.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qtgui-config.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qtguiexports.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qtguiglobal.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qtransform.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qwindowdefs.h \
+  C:/Qt/6.9.1/mingw_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/QApplication \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/QColorDialog \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/QPushButton \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/QVBoxLayout \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/QWidget \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qabstractbutton.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qapplication.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qboxlayout.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qcolordialog.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qdialog.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qgridlayout.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qlayout.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qlayoutitem.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qpushbutton.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qsizepolicy.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qtwidgets-config.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qtwidgetsexports.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
+  C:/Qt/6.9.1/mingw_64/include/QtWidgets/qwidget.h \
+  C:/Users/Utilisateur/Qt-Projects/moyens_projets/PaintQt/paintwidget.h
+
 
 C:/MinGW/include/c++/15.1.0/bits/list.tcc:
 
@@ -697,8 +1428,6 @@ C:/MinGW/include/c++/15.1.0/bits/stl_list.h:
 C:/Qt/6.9.1/mingw_64/include/QtCore/qmetatype.h:
 
 C:/MinGW/include/c++/15.1.0/array:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/SunPro-C-DetermineCompiler.cmake:
 
 C:/MinGW/include/c++/15.1.0/bits/parse_numbers.h:
 
@@ -732,9 +1461,9 @@ C:/MinGW/include/c++/15.1.0/bits/algorithmfwd.h:
 
 C:/MinGW/include/c++/15.1.0/bits/move.h:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:
-
 C:/MinGW/include/c++/15.1.0/bits/align.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:
 
 C:/MinGW/include/c++/15.1.0/bits/alloc_traits.h:
 
@@ -742,11 +1471,9 @@ C:/MinGW/include/c++/15.1.0/bits/memoryfwd.h:
 
 C:/MinGW/include/c++/15.1.0/bits/hash_bytes.h:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeCompilerIdDetection.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/XLClang-C-DetermineCompiler.cmake:
-
 C:/MinGW/include/c++/15.1.0/bits/allocated_ptr.h:
+
+C:/MinGW/include/c++/15.1.0/pstl/glue_algorithm_defs.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qdarwinhelpers.h:
 
@@ -764,15 +1491,15 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qstringview.h:
 
 C:/MinGW/include/c++/15.1.0/bits/char_traits.h:
 
-C:/MinGW/include/c++/15.1.0/tr1/legendre_function.tcc:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qiodevicebase.h:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake:
-
 C:/MinGW/include/c++/15.1.0/bits/atomic_lockfree_defines.h:
 
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/CheckCXXSourceCompiles.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake:
+
+C:/MinGW/include/c++/15.1.0/tr1/legendre_function.tcc:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qiodevicebase.h:
 
 C:/MinGW/include/c++/15.1.0/bits/hashtable.h:
 
@@ -788,7 +1515,7 @@ C:/MinGW/include/c++/15.1.0/bits/charconv.h:
 
 C:/MinGW/include/c++/15.1.0/cerrno:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake:
+C:/MinGW/x86_64-w64-mingw32/include/stdint.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargets-relwithdebinfo.cmake:
 
@@ -824,8 +1551,6 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessAliasTargets.cmak
 
 C:/MinGW/include/c++/15.1.0/bits/cxxabi_forced.h:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Diab-DetermineCompiler.cmake:
-
 C:/MinGW/include/c++/15.1.0/bits/cxxabi_init_exception.h:
 
 C:/MinGW/include/c++/15.1.0/bits/stl_bvector.h:
@@ -838,13 +1563,15 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTa
 
 C:/MinGW/include/c++/15.1.0/bits/exception_ptr.h:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/qdeadlinetimer.h:
+
 C:/MinGW/include/c++/15.1.0/bits/erase_if.h:
 
 C:/MinGW/include/c++/15.1.0/bits/exception.h:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake:
-
 C:/MinGW/include/c++/15.1.0/tr1/bessel_function.tcc:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake:
 
 C:/MinGW/include/c++/15.1.0/bits/exception_defines.h:
 
@@ -852,11 +1579,11 @@ C:/MinGW/include/c++/15.1.0/bits/requires_hosted.h:
 
 C:/MinGW/include/c++/15.1.0/bits/functional_hash.h:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginConfig.cmake:
-
 C:/MinGW/include/c++/15.1.0/bits/shared_ptr_atomic.h:
 
 C:/MinGW/include/c++/15.1.0/bits/invoke.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginConfig.cmake:
 
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake:
 
@@ -876,13 +1603,13 @@ C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/os_defines.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/QPoint:
 
-C:/MinGW/include/c++/15.1.0/cctype:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qcomparehelpers.h:
+C:/MinGW/include/c++/15.1.0/bits/node_handle.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiVersionlessAliasTargets.cmake:
 
-C:/MinGW/include/c++/15.1.0/bits/node_handle.h:
+C:/MinGW/include/c++/15.1.0/cctype:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qcomparehelpers.h:
 
 C:/MinGW/include/c++/15.1.0/bits/localefwd.h:
 
@@ -906,13 +1633,9 @@ C:/MinGW/include/c++/15.1.0/bits/ptr_traits.h:
 
 C:/MinGW/include/c++/15.1.0/bits/refwrap.h:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/NVIDIA-DetermineCompiler.cmake:
-
 C:/Qt/6.9.1/mingw_64/include/QtCore/q23utility.h:
 
 C:/MinGW/include/c++/15.1.0/bits/shared_ptr_base.h:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Renesas-DetermineCompiler.cmake:
 
 C:/MinGW/include/c++/15.1.0/bits/stl_function.h:
 
@@ -924,21 +1647,19 @@ C:/MinGW/include/c++/15.1.0/bits/std_function.h:
 
 C:/MinGW/include/c++/15.1.0/bits/stl_algo.h:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeInspectCXXLinker.cmake:
-
 C:/Qt/6.9.1/mingw_64/include/QtCore/qtcoreexports.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qtmetamacros.h:
 
-C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/cpu_defines.h:
+C:/Qt/6.9.1/mingw_64/include/QtCore/qlocale.h:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets.cmake:
+C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/cpu_defines.h:
 
 C:/MinGW/include/c++/15.1.0/bits/stl_construct.h:
 
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp:
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets.cmake:
 
 C:/MinGW/include/c++/15.1.0/bits/stl_heap.h:
 
@@ -974,8 +1695,6 @@ C:/MinGW/include/c++/15.1.0/bits/stl_multiset.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/pthread_time.h:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/IAR-DetermineCompiler.cmake:
-
 C:/MinGW/include/c++/15.1.0/bits/stl_numeric.h:
 
 C:/MinGW/include/c++/15.1.0/bits/stl_tempbuf.h:
@@ -990,8 +1709,6 @@ C:/MinGW/include/c++/15.1.0/bits/stl_relops.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/locale.h:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeParseImplicitIncludeInfo.cmake:
-
 C:/Qt/6.9.1/mingw_64/include/QtCore/qmargins.h:
 
 C:/MinGW/include/c++/15.1.0/bits/stl_set.h:
@@ -1001,6 +1718,8 @@ C:/MinGW/include/c++/15.1.0/tr1/modified_bessel_func.tcc:
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets.cmake:
 
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake:
+
+C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/mm_malloc.h:
 
 C:/MinGW/include/c++/15.1.0/bits/stl_tree.h:
 
@@ -1012,15 +1731,21 @@ C:/MinGW/include/c++/15.1.0/bits/streambuf.tcc:
 
 C:/MinGW/include/c++/15.1.0/bits/streambuf_iterator.h:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake:
+
 C:/MinGW/include/c++/15.1.0/bits/string_view.tcc:
 
 C:/MinGW/include/c++/15.1.0/bits/stringfwd.h:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake:
+
 C:/MinGW/include/c++/15.1.0/bits/unique_ptr.h:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake:
-
 C:/Qt/6.9.1/mingw_64/include/QtCore/qgenericatomic.h:
+
+C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdint.h:
 
 C:/MinGW/include/c++/15.1.0/bits/unordered_map.h:
 
@@ -1054,15 +1779,13 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qbasicatomic.h:
 
 C:/MinGW/include/c++/15.1.0/chrono:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-relwithdebinfo.cmake:
-
 C:/MinGW/include/c++/15.1.0/climits:
 
 C:/MinGW/include/c++/15.1.0/vector:
 
-C:/MinGW/include/c++/15.1.0/clocale:
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-relwithdebinfo.cmake:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Internal/FeatureTesting.cmake:
+C:/MinGW/include/c++/15.1.0/clocale:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qvariant.h:
 
@@ -1074,17 +1797,13 @@ C:/MinGW/include/c++/15.1.0/concepts:
 
 C:/MinGW/include/c++/15.1.0/cstddef:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/NVHPC-DetermineCompiler.cmake:
+C:/MinGW/include/c++/15.1.0/cstdint:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake:
 
-C:/MinGW/include/c++/15.1.0/cstdint:
+C:/MinGW/include/c++/15.1.0/cwchar:
 
 C:/MinGW/include/c++/15.1.0/cstdio:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/LCC-C-DetermineCompiler.cmake:
-
-C:/MinGW/include/c++/15.1.0/cwchar:
 
 C:/MinGW/include/c++/15.1.0/cstring:
 
@@ -1118,9 +1837,9 @@ C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeCheckCompilerFlagCommonPatt
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake:
-
 C:/MinGW/x86_64-w64-mingw32/include/sys/types.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake:
 
 C:/MinGW/include/c++/15.1.0/ext/string_conversions.h:
 
@@ -1138,11 +1857,9 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qmath.h:
 
 C:/MinGW/include/c++/15.1.0/list:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/ADSP-DetermineCompiler.cmake:
+C:/MinGW/include/c++/15.1.0/map:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake:
-
-C:/MinGW/include/c++/15.1.0/map:
 
 C:/MinGW/x86_64-w64-mingw32/include/process.h:
 
@@ -1152,6 +1869,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/Qt6Dependencies.cmake:
 
 C:/MinGW/include/c++/15.1.0/new:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake:
+
 C:/MinGW/include/c++/15.1.0/numeric:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qcontainertools_impl.h:
@@ -1159,10 +1878,6 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qcontainertools_impl.h:
 C:/MinGW/include/c++/15.1.0/optional:
 
 C:/MinGW/include/c++/15.1.0/pstl/execution_defs.h:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Cray-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateAdditionalTargetInfo.cmake:
 
@@ -1180,13 +1895,13 @@ C:/MinGW/include/c++/15.1.0/streambuf:
 
 C:/MinGW/x86_64-w64-mingw32/include/stdio.h:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake:
-
 C:/Qt/6.9.1/mingw_64/include/QtCore/q20memory.h:
+
+C:/MinGW/include/c++/15.1.0/string:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake:
 
-C:/MinGW/include/c++/15.1.0/string:
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateConfigVersion.cmake:
 
 C:/MinGW/include/c++/15.1.0/string_view:
 
@@ -1194,15 +1909,13 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qhashfunctions.h:
 
 C:/MinGW/include/c++/15.1.0/system_error:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake:
-
 C:/Qt/6.9.1/mingw_64/include/QtCore/qyieldcpu.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake:
 
 C:/MinGW/include/c++/15.1.0/tr1/beta_function.tcc:
 
 C:/MinGW/include/c++/15.1.0/tr1/ell_integral.tcc:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeSystem.cmake.in:
 
 C:/MinGW/include/c++/15.1.0/tr1/exp_integral.tcc:
 
@@ -1211,6 +1924,10 @@ C:/MinGW/include/c++/15.1.0/tr1/hypergeometric.tcc:
 C:/Qt/6.9.1/mingw_64/include/QtCore/q17memory.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qarraydataops.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateConfigVersion.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicGitHelpers.cmake:
 
 C:/MinGW/include/c++/15.1.0/tr1/poly_hermite.tcc:
 
@@ -1232,6 +1949,8 @@ C:/MinGW/include/c++/15.1.0/tuple:
 
 C:/MinGW/include/c++/15.1.0/type_traits:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomQtEntityHelpers.cmake:
+
 C:/MinGW/include/c++/15.1.0/typeinfo:
 
 C:/MinGW/include/c++/15.1.0/unordered_map:
@@ -1243,6 +1962,8 @@ C:/MinGW/include/c++/15.1.0/unordered_set:
 C:/MinGW/include/c++/15.1.0/utility:
 
 C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/atomic_word.h:
+
+C:/MinGW/include/c++/15.1.0/bits/monostate.h:
 
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Linker/GNU.cmake:
 
@@ -1260,9 +1981,9 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qstringbuilder.h:
 
 C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/error_constants.h:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/Qt6VersionlessAliasTargets.cmake:
-
 C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/gthr-default.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/Qt6VersionlessAliasTargets.cmake:
 
 C:/MinGW/include/c++/15.1.0/x86_64-w64-mingw32/bits/gthr.h:
 
@@ -1272,6 +1993,8 @@ C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdarg.h:
 
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdbool.h:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake:
+
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stddef.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/corecrt_wstdlib.h:
@@ -1280,9 +2003,9 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets-relwithdebinfo.cmake
 
 C:/MinGW/lib/gcc/x86_64-w64-mingw32/15.1.0/include/syslimits.h:
 
-C:/MinGW/x86_64-w64-mingw32/include/_mingw.h:
+C:/Qt/6.9.1/mingw_64/include/QtCore/qbasictimer.h:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeDetermineLinkerId.cmake:
+C:/MinGW/x86_64-w64-mingw32/include/_mingw.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/_mingw_mac.h:
 
@@ -1292,11 +2015,13 @@ C:/MinGW/x86_64-w64-mingw32/include/_mingw_off_t.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/_mingw_secapi.h:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Bruce-C-DetermineCompiler.cmake:
-
 C:/MinGW/x86_64-w64-mingw32/include/_mingw_stat64.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/_timeval.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtInstallPaths.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreVersionlessAliasTargets.cmake:
 
 C:/MinGW/x86_64-w64-mingw32/include/corecrt.h:
 
@@ -1314,13 +2039,9 @@ C:/MinGW/x86_64-w64-mingw32/include/ctype.h:
 
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Compaq-C-DetermineCompiler.cmake:
-
 C:/MinGW/x86_64-w64-mingw32/include/errno.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtGui/qfontmetrics.h:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeParseImplicitLinkInfo.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qpair.h:
 
@@ -1358,67 +2079,25 @@ C:/MinGW/x86_64-w64-mingw32/include/sys/timeb.h:
 
 C:/MinGW/x86_64-w64-mingw32/include/time.h:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake:
-
 C:/MinGW/x86_64-w64-mingw32/include/wchar.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qsharedpointer_impl.h:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake:
+
 C:/Program\ Files/CMake/bin/cmake.exe:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginConfig.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersionImpl.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/Qt6Targets.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeCCompiler.cmake.in:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/q20utility.h:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeCCompilerABI.c:
 
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeCInformation.cmake:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompiler.cmake.in:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qstringmatcher.h:
+C:/Qt/6.9.1/mingw_64/include/QtWidgets/QColorDialog:
 
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake:
 
-C:/Qt/6.9.1/mingw_64/include/QtGui/qimage.h:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompiler.cmake:
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomGenerationHelpers.cmake:
 
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomGenerationHelpers.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateAdditionalTargetInfo.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerSupport.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineRCCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CheckCXXCompilerFlag.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeDetermineSystem.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/HP-CXX-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:
+C:/Qt/6.9.1/mingw_64/include/QtWidgets/qlayout.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/q20type_traits.h:
 
@@ -1432,165 +2111,23 @@ C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qcontiguouscache.h:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeMinGWFindMake.cmake:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/q20functional.h:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeParseLibraryArchitecture.cmake:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qflags.h:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeRCCompiler.cmake.in:
-
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeRCInformation.cmake:
 
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qprocessordetection.h:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeTestCCompiler.cmake:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qtypeinfo.h:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeTestCompilerCommon.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/CMakeTestRCCompiler.cmake:
-
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/CheckCSourceCompiles.cmake:
+
+C:/Program\ Files/CMake/share/cmake-4.1/Modules/CheckCXXCompilerFlag.cmake:
 
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/CheckLibraryExists.cmake:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/ARMCC-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/ARMClang-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU-CXX.cmake:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qfunctionaltools_impl.h:
-
-C:/Users/Utilisateur/Qt-Projects/moyens_projets/PaintQt/paintwidget.cpp:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/AppleClang-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Borland-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Clang-DetermineCompiler.cmake:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qalgorithms.h:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Clang-DetermineCompilerInternal.cmake:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qxptype_traits.h:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/CrayClang-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Embarcadero-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Fujitsu-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/FindPackageMessage.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/GHS-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-C-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-FindBinUtils.cmake:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qtdeprecationmarkers.h:
-
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/GNU.cmake:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/HP-C-DetermineCompiler.cmake:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qconstructormacros.h:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomOpsHelpers.cmake:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qcompare_impl.h:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomPythonHelpers.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Intel-DetermineCompiler.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake:
-
-C:/Qt/6.9.1/mingw_64/include/QtGui/qtguiglobal.h:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginConfig.cmake:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qtextstream.h:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/MSVC-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qswap.h:
-
-C:/Qt/6.9.1/mingw_64/include/QtGui/qcolor.h:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/OrangeC-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/PGI-DetermineCompiler.cmake:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qtconfigmacros.h:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/PathScale-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/SCO-DetermineCompiler.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/SDCC-C-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/TI-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/TIClang-DetermineCompiler.cmake:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qvarlengtharray.h:
-
-C:/Qt/6.9.1/mingw_64/include/QtCore/qiterator.h:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Windows-GNU.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Tasking-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/Watcom-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/XL-C-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/XL-CXX-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/zOS-C-DetermineCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake:
-
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/FindPackageHandleStandardArgs.cmake:
+
+C:/Program\ Files/CMake/share/cmake-4.1/Modules/FindPackageMessage.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-relwithdebinfo.cmake:
 
@@ -1602,11 +2139,9 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qsystemdetection.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtGui/qaction.h:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointMinGW32Target.cmake:
-
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCLinkerInformation.cmake:
 
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Internal/CMakeInspectCLinker.cmake:
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointMinGW32Target.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtWidgets/qtwidgetsexports.h:
 
@@ -1630,11 +2165,11 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qstringalgorithms.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qvector.h:
 
+C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU-CXX.cmake:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qfunctionaltools_impl.h:
+
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginTargets.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Windows-Determine-CXX.cmake:
 
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Windows-GNU-C-ABI.cmake:
 
@@ -1644,21 +2179,29 @@ C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Windows-GNU-CXX-ABI.cma
 
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Windows-GNU-CXX.cmake:
 
+C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Windows-GNU.cmake:
+
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/Windows-windres.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qstringlist.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtGui/qpixmap.h:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake:
-
 C:/Program\ Files/CMake/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/QVector:
 
 C:/Qt/6.9.1/mingw_64/include/QtGui/qfontinfo.h:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/q20functional.h:
+
 C:/Qt/6.9.1/mingw_64/include/QtCore/q20iterator.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/q20utility.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qalgorithms.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qglobal.h:
 
@@ -1670,9 +2213,13 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qmetacontainer.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qassert.h:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/qcoreapplication.h:
+
 C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearraylist.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qatomic.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateConfig.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qatomic_cxx11.h:
 
@@ -1682,7 +2229,15 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qbytearrayalgorithms.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qchar.h:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomPythonHelpers.cmake:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qcompare_impl.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomOpsHelpers.cmake:
+
 C:/Qt/6.9.1/mingw_64/include/QtCore/qconfig.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qconstructormacros.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtGui/qpalette.h:
 
@@ -1696,6 +2251,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qexceptionhandling.h:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/qflags.h:
+
 C:/Qt/6.9.1/mingw_64/include/QtCore/qfloat16.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qfunctionpointer.h:
@@ -1708,13 +2265,17 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qiterable.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qset.h:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/qvarlengtharray.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qiterator.h:
+
 C:/Qt/6.9.1/mingw_64/include/QtCore/qtversionchecks.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qlatin1stringview.h:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake:
-
 C:/Qt/6.9.1/mingw_64/include/QtCore/qmalloc.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-relwithdebinfo.cmake:
 
@@ -1724,17 +2285,17 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qshareddata_impl.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qminmax.h:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomAttributionHelpers.cmake:
-
 C:/Qt/6.9.1/mingw_64/include/QtCore/qnumeric.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomAttributionHelpers.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qobjectdefs_impl.h:
 
-C:/Qt/6.9.1/mingw_64/include/QtGui/qtguiexports.h:
+C:/Qt/6.9.1/mingw_64/include/QtCore/qpoint.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-relwithdebinfo.cmake:
 
-C:/Qt/6.9.1/mingw_64/include/QtCore/qpoint.h:
+C:/Qt/6.9.1/mingw_64/include/QtGui/qtguiexports.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qrect.h:
 
@@ -1744,25 +2305,43 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qshareddata.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qsize.h:
 
+C:/Qt/6.9.1/mingw_64/include/QtWidgets/QPushButton:
+
 C:/Qt/6.9.1/mingw_64/include/QtCore/qspan.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtGui/qpolygon.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qstdlibdetection.h:
 
+C:/Qt/6.9.1/mingw_64/include/QtWidgets/QVBoxLayout:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/q20algorithm.h:
+
 C:/Qt/6.9.1/mingw_64/include/QtCore/qstring.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qstringconverter.h:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateTargets.cmake:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qstringmatcher.h:
+
 C:/Qt/6.9.1/mingw_64/include/QtCore/qstringtokenizer.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginConfig.cmake:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qtextstream.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qswap.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qsysinfo.h:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:
-
 C:/Qt/6.9.1/mingw_64/include/QtCore/qtclasshelpermacros.h:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:
+
 C:/Qt/6.9.1/mingw_64/include/QtCore/qtconfiginclude.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qtconfigmacros.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qtcore-config.h:
 
@@ -1772,7 +2351,11 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qtcoreglobal.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qtdeprecationdefinitions.h:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/qtdeprecationmarkers.h:
+
 C:/Qt/6.9.1/mingw_64/include/QtCore/qtenvironmentvariables.h:
+
+C:/MinGW/x86_64-w64-mingw32/include/stddef.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qtformat_impl.h:
 
@@ -1780,25 +2363,47 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qtnoop.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qttranslation.h:
 
+C:/Qt/6.9.1/mingw_64/include/QtGui/qinputmethod.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qcoreevent.h:
+
 C:/Qt/6.9.1/mingw_64/include/QtCore/qttypetraits.h:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginConfig.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomSystemDepHelpers.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qtversion.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtGui/qfontvariableaxis.h:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomSystemDepHelpers.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginConfig.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets-relwithdebinfo.cmake:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qtypeinfo.h:
+
 C:/Qt/6.9.1/mingw_64/include/QtCore/qutf8stringview.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qversiontagging.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qxptype_traits.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake:
+
+C:/Qt/6.9.1/mingw_64/include/QtGui/QColor:
 
 C:/Qt/6.9.1/mingw_64/include/QtGui/qbitmap.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtGui/qbrush.h:
 
+C:/Qt/6.9.1/mingw_64/include/QtGui/qcolor.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake:
+
 C:/Qt/6.9.1/mingw_64/include/QtGui/qfont.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake:
+
+C:/Qt/6.9.1/mingw_64/include/QtGui/qimage.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtGui/qkeysequence.h:
 
@@ -1814,7 +2419,11 @@ C:/Qt/6.9.1/mingw_64/include/QtGui/qrgba64.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtGui/qtgui-config.h:
 
+C:/Qt/6.9.1/mingw_64/include/QtGui/qtguiglobal.h:
+
 C:/Qt/6.9.1/mingw_64/include/QtGui/qtransform.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomCpeHelpers.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtGui/qwindowdefs.h:
 
@@ -1822,11 +2431,13 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersionImpl.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtGui/qwindowdefs_win.h:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomHelpers.cmake:
-
 C:/Qt/6.9.1/mingw_64/include/QtWidgets/QWidget:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomHelpers.cmake:
+
 C:/Qt/6.9.1/mingw_64/include/QtWidgets/qsizepolicy.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtWidgets/qtwidgets-config.h:
 
@@ -1844,13 +2455,19 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake:
 
+C:/Qt/6.9.1/mingw_64/include/QtCore/qcoreapplication_platform.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginConfig.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/Qt6Targets.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersionImpl.cmake:
+
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtFeature.cmake:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake:
+
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtFeatureCommon.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreVersionlessAliasTargets.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtInstallPaths.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicAndroidHelpers.cmake:
 
@@ -1862,17 +2479,9 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateConfigVersion.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicGitHelpers.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake:
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers_v2.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomCpeHelpers.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomDepHelpers.cmake:
 
@@ -1880,15 +2489,9 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomFileHelpers.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomLicenseHelpers.cmake:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake:
-
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomPurlHelpers.cmake:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomQtEntityHelpers.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake:
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake:
 
@@ -1898,25 +2501,17 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake:
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets-relwithdebinfo.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateConfig.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateConfigVersion.cmake:
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateAdditionalTargetInfo.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateConfigVersionImpl.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateDependencies.cmake:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateTargets.cmake:
-
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateVersionlessAliasTargets.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake:
 
@@ -1935,10 +2530,6 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets-
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateVersionlessAliasTargets.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake:
-
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake:
 
@@ -1964,13 +2555,21 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginConfig.cmake
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-relwithdebinfo.cmake:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake:
+
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginAdditionalTargetInfo.cmake:
 
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake:
+
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-relwithdebinfo.cmake:
+
+PaintQt_autogen/mocs_compilation.cpp:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake:
+
+C:/MinGW/x86_64-w64-mingw32/include/stdlib.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake:
 
@@ -1981,6 +2580,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginAdditi
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginConfig.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginTargets-relwithdebinfo.cmake:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginTargets.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginAdditionalTargetInfo.cmake:
 
@@ -1993,6 +2594,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake:
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateConfig.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateTargets.cmake:
+
+C:/Qt/6.9.1/mingw_64/include/QtWidgets/qapplication.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateVersionlessAliasTargets.cmake:
 
@@ -2013,6 +2616,10 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets-re
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake:
+
+C:/MinGW/x86_64-w64-mingw32/include/math.h:
+
+C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake:
 
@@ -2042,7 +2649,7 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cmake:
 
-C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake:
+C:/MinGW/x86_64-w64-mingw32/include/limits.h:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessAliasTargets.cmake:
 
@@ -2056,4 +2663,56 @@ CMakeFiles/4.1.0/CMakeSystem.cmake:
 
 PaintQt_autogen/moc_predefs.h:
 
+C:/Users/Utilisateur/Qt-Projects/moyens_projets/PaintQt/paintwidget.cpp:
+
 C:/Users/Utilisateur/Qt-Projects/moyens_projets/PaintQt/paintwidget.h:
+
+C:/MinGW/include/c++/15.1.0/pstl/glue_memory_defs.h:
+
+C:/MinGW/include/c++/15.1.0/pstl/pstl_config.h:
+
+C:/MinGW/include/c++/15.1.0/version:
+
+C:/MinGW/x86_64-w64-mingw32/include/_mingw_stdarg.h:
+
+C:/MinGW/x86_64-w64-mingw32/include/malloc.h:
+
+C:/MinGW/x86_64-w64-mingw32/include/sec_api/stdlib_s.h:
+
+C:/MinGW/x86_64-w64-mingw32/include/stdarg.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/q23type_traits.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qtmocconstants.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qtmochelpers.h:
+
+PaintQt_autogen/EWIEGA46WW/moc_paintwidget.cpp:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qabstracteventdispatcher.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qelapsedtimer.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qeventloop.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtCore/qnativeinterface.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtGui/qguiapplication.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtGui/qguiapplication_platform.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtWidgets/QApplication:
+
+C:/Qt/6.9.1/mingw_64/include/QtWidgets/qabstractbutton.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtWidgets/qboxlayout.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtWidgets/qcolordialog.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtWidgets/qdialog.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtWidgets/qgridlayout.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtWidgets/qlayoutitem.h:
+
+C:/Qt/6.9.1/mingw_64/include/QtWidgets/qpushbutton.h:

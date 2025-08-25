@@ -1,21 +1,44 @@
 #include <QApplication>
 #include <QWidget>
+#include <QPushButton>
+#include <QColorDialog>
+#include <QVBoxLayout>
 #include "paintwidget.h"
 
-/*
-* Create de main window and the drawing area
-* Sets title and size of the window
-*/
+int main(int argc, char* argv[])
+{
+    QApplication app(argc, argv);
 
-int main(int argc, char* argv[]) {
-	QApplication app(argc, argv);
-	QWidget window;
-	window.setWindowTitle("PaintQt");
-	window.resize(800, 600);
+    QWidget window;
+    window.setWindowTitle("PaintQt");
 
-	PaintWidget* paintArea = new PaintWidget(&window);
-	paintArea->setGeometry(0, 0, 800, 600);
+    QVBoxLayout* layout = new QVBoxLayout(&window);
 
-	window.show();
-	return app.exec();
+    /*
+     * Create the PaintWidget for drawing
+     */
+    PaintWidget* paint = new PaintWidget();
+    layout->addWidget(paint);
+
+    /*
+     * Create a button to choose brush color
+     */
+    QPushButton* colorButton = new QPushButton("Choisir couleur");
+    layout->addWidget(colorButton);
+
+    QObject::connect(colorButton, &QPushButton::clicked, paint, [paint]() {
+        QColor color = QColorDialog::getColor(paint->palette().color(paint->backgroundRole()),
+            paint,
+            "Choisir couleur du pinceau");
+        if (color.isValid()) {
+            paint->setBrushColor(color);
+        }
+    });
+
+
+    window.setLayout(layout);
+    window.resize(800, 600);
+    window.show();
+
+    return app.exec();
 }
