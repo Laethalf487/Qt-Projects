@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\PaintQt.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\PaintQt.dir/objects.a @CMakeFiles\PaintQt.dir\objects1.rsp
+C:\MinGW\bin\c++.exe -Wl,--whole-archive CMakeFiles\PaintQt.dir/objects.a -Wl,--no-whole-archive -o PaintQt.exe -Wl,--out-implib,libPaintQt.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PaintQt.dir\linkLibs.rsp
